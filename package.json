@@ -2,6 +2,10 @@
   "name": "simple-sassy-scaffold",
   "version": "1.0.2",
   "description": "A basic scaffold for an 11ty site with Sass pipeline",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philhawksworth/11ty-scaffold-with-sass"
+  },
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve",
